@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Urban Perspective"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Bonface K. M."
+description              : "The community based website for Urban Perspective"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : upbookclub/upbookclub.github.io# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+  breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -70,26 +70,26 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-89558120-1
 
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "UP Librarian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "A community of book lovers."
+  location         : "Nairobi"
+  email            : "bonfacemunyoki+librarian@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/upbookclub/upbookclub.github.io"
   google_plus      :
   keybase          :
   instagram        :
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Africa/Nairobi # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -231,6 +231,23 @@ compress_html:
     envs: development
 
 
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -241,6 +258,51 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
