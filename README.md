@@ -27,7 +27,7 @@ Once your Pull Request has been resolved, your post will appear on the website.
 gem install jekyll
 ```
 3. Fork/ Clone our [repository](https://github.com/upbookclub/upbookclub.github.io)
-4. Run `bundle exec jekyll server` to spin-up your site. Visit `http://localhost:4000/` on your browser to see the site.
+4. Run `bundle exec jekyll serve` to spin-up your site. Visit `http://localhost:4000/` on your browser to see the site.
 
 # Blog Workflow
 If you're interested in writing a blog post for the website, you need to:
