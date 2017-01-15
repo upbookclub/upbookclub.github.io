@@ -2,13 +2,13 @@
 title: "Meetup Summary (January, 2017)"
 author: Bonface
 ---
-> Society has three stages: Savagery, Ascendance, Decadence. The great rise because of Savegery. They rule because of Savagery. They rule because of Ascendance. The fall because of their own Decadence.
->- Pierce Brown, Red Rising
+> Society has three stages: Savagery, Ascendance, Decadence. The great rise because of Savegery. They rule because of Savagery. They rule because of Ascendance. The fall because of their own Decadence.  
+>-Pierce Brown, Red Risingg
 
 Well, three people turned out for our very first meetup. This low turnout did not by any means make the whole affair dull. In fact, we ended up being politely "kicked out" of the place because the venue closed early(about 7:30-ish). Our conversation was all over the place. Here are some of my highlights:
 
 ### A Song of Ice and Fire
-Well, there had to be that one Game of Thrones Fanatic(not me) in the group. We talked about the upcoming *The Winds of Winter* and how annoying George R. R. Martin can be when it comes to releasing books. An interesting question that came up was: *What would you choose? A rushed novel and a timely release; or a "perfect" story where you have to wait years for the release?*. That's something I'll leave you guys to think about.
+Well, there had to be that one Game of Thrones Fanatic(not me) in the group. We talked about the upcoming *The Winds of Winter* and how annoying George R. R. Martin can be when it comes to releasing books. An interesting question that came up was: *What would you choose? A rushed novel and a timely release; or a "perfect" story where you have to wait years for the release?* That's something I'll leave you guys to think about.
 
 While we were talking about "Game of Thrones", some other cool stuff came up... Like Harry Potter.
 
@@ -19,7 +19,7 @@ Well, Hagrid would have been dead in book one(Not an honourable death, some dumb
 ### Paradigm Shift
 We talked about how messed up this world is. How difficult it is to change stuff. Kinda reminded me of the *Red Rising Trilogy* when we were talking about this stuff. This conversation of power and influence made us talk about anime. A memorable quote from one of the animes(One Piece) went something like this:
 
-*Why do you want to be the the King of the Pirates?*
+*Why do you want to be the the King of the Pirates?*  
 *Luffy: I want to be the King of the Pirates because the King of the Pirates is the freest man in the whole world*
 
 We explored this further. *What does being free really mean?* Does it mean more wealth, more power, more influence, being happy? How do you achieve this freedom. Perhaps *you* should change the world to *adapt* to you. Interesting.
