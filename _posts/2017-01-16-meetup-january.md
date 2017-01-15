@@ -1,5 +1,5 @@
 ---
-title: "Meetup Summary (January, 2017)
+title: "Meetup Summary (January, 2017)"
 author: Bonface
 ---
 > Society has three stages: Savagery, Ascendance, Decadence. The great rise because of Savegery. They rule because of Savagery. They rule because of Ascendance. The fall because of their own Decadence.
