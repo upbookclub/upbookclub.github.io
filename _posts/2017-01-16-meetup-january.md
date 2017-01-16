@@ -3,7 +3,7 @@ title: "Meetup Summary (January, 2017)"
 author: Bonface
 ---
 > Society has three stages: Savagery, Ascendance, Decadence. The great rise because of Savagery. They rule in Ascendance. They fall because of their own Decadence.  
-> - Pierce Brown, Red Risingg
+> - Pierce Brown, Red Rising
 
 Well, three people turned out for our very first meetup. This low turnout did not by any means make the whole affair dull. In fact, we ended up being politely "kicked out" of the place because the venue closed early(about 7:30-ish). Our conversation was all over the place. Here are some of my highlights:
 
