@@ -5,7 +5,7 @@ title: "Meetup Summary (March, 2018)
 I reckon this is the first post in a long while on this website.
 We've been having meetups for the last one year, but most of the
 things discussed are lost in time because there is no record of
-it. I thus felt I needed to put some of the stuff discussed on our
+it. I thus felt I needed to put some of the stuff discussed in our
 March meetup.
 
 This month's meet up was hosted at Big Square- some decent fast
@@ -124,7 +124,3 @@ about the hard work put into the work, and go into crazy God mode.
 I think if one is successful, they should be honest about what led
 to it. Put in hard work, as the major points and end in God
 (although luck would be a better fit).
-<!-- Religion and Society: What are the consequences of someone -->
-<!-- praising God as the only reason for their success? This causes -->
-<!-- people to forget that s/he worked hard to get their and focussed -->
-<!-- their efforts on prayer. -->
