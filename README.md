@@ -21,13 +21,17 @@ Once your Pull Request has been resolved, your post will appear on the website.
 
 # Contributing
 ## Developer
-1. Ensure you have `ruby` and `rubygems` installed in your system.
+1. Ensure you have `ruby`, `rubygems` and `bundler` installed in your system.
 2. Install `jekyll` by running 
 ```
 gem install jekyll
 ```
 3. Fork/ Clone our [repository](https://github.com/upbookclub/upbookclub.github.io)
-4. Run `bundle exec jekyll serve` to spin-up your site. Visit `http://localhost:4000/` on your browser to see the site.
+4. Install the repo's dependencies by running
+```
+bundle install --path vendor/bundle
+```
+5. Run `bundle exec jekyll serve` to spin-up your site. Visit `http://localhost:4000/` on your browser to see the site.
 
 # Blog Workflow
 If you're interested in writing a blog post for the website, you need to:
