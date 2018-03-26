@@ -1,5 +1,6 @@
 ---
-title: "Meetup Summary (March, 2018)
+title: "Meetup Summary (March, 2018)"
+author: Nduli
 ---
 
 I reckon this is the first post in a long while on this website.
