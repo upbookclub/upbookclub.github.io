@@ -6,7 +6,7 @@ When you've found a book you quite enjoyed, **sharing your experience** feels ve
 # Urban Perspective Website
 Well, some random dude challenged us(the Librarian ;) ) to come up with a fun and nerdy way to run a community website, so here we are. 
 
-This website is powered by [Jekyll](https://jekyllrb.com/) and uses the amazing [Minimal Mistakes Jekyll theme](). You can find the source files at [upbookclub.github.io](https://github.com/upbookclub/upbookclub.github.io).
+This website is powered by [Jekyll](https://jekyllrb.com/) and uses the amazing [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/). You can find the source files at [upbookclub.github.io](https://github.com/upbookclub/upbookclub.github.io).
 
 You do not need to know HTML or any programming language to be able to contribute. However, you do need to know a little bit of how [GitHub](www.github.com) works.
 
@@ -29,7 +29,7 @@ gem install jekyll
 3. Fork/ Clone our [repository](https://github.com/upbookclub/upbookclub.github.io)
 4. Install the repo's dependencies by running
 ```
-bundle install --path vendor/bundle
+bundle install
 ```
 5. Run `bundle exec jekyll serve` to spin-up your site. Visit `http://localhost:4000/` on your browser to see the site.
 
